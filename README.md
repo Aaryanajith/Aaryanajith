@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aaryanajith<br>👀 I’m interested in Artifical Intelligence and Machine Learning<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on anything related to python programming<br>📫 How to reach me Instagram and Twitter
+👋 Hi, I’m @Aaryanajith<br>👀 I’m interested in Artifical Intelligence and Machine Learning<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on anything related to python programming<br>📫  reach me @Instagram and @Twitter
 
 
 ## 🌐 Socials:
