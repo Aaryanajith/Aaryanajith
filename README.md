@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @Aaryanajith<br>👀 I’m interested in Artifical Intelligence and Machine Learning<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on anything related to python programming<br>📫  reach me @Instagram and @Twitter
+👋 Hi, I’m @Aaryanajith<br>👀 I’m interested in Artifical Intelligence, Machine Learning and Flutter<br>🌱 I’m currently learning Flutter<br>💞️ I’m looking to collaborate on anything related to python programming and Flutter<br>📫  reach me @Twitter
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aaryn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aaryn_ajith) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aaryn_ajith) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
